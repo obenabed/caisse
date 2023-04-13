@@ -1,1 +1,0 @@
-alter table balances add terminalnum bigint(20) after transactions;
